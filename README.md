@@ -49,3 +49,7 @@ When you log in or learn a new spell, AutoMacro checks which supported spells yo
 - Macros are created as **character** macros. If your character macro slots are full, AutoMacro tells you which macros couldn't be created.
 - Settings (disabled state and skip list) are saved per character.
 - AutoMacro never edits or deletes existing macros. To regenerate one, delete it and run `/am`.
+
+## License
+
+[MIT](LICENSE)
