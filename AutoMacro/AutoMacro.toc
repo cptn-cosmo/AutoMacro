@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: AutoMacro
+## Notes: Auto-generates mouseover macros for your class's heals, dispels and buffs.
+## Author: cosmo
+## Version: 1.0.0
+## SavedVariablesPerCharacter: AutoMacroDB
+
+AutoMacro.lua
