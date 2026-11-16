@@ -29,7 +29,7 @@ When you log in or learn a new spell, AutoMacro checks which supported spells yo
 ## Installation
 
 1. Download `AutoMacro-<version>.zip` from the [latest release](../../releases/latest).
-2. Extract it into your `World of Warcraft/_classic_era_/Interface/AddOns/` folder (or the AddOns folder of your Classic client), so you end up with `Interface/AddOns/AutoMacro/AutoMacro.toc`.
+2. Extract it into your `World of Warcraft/_forever_/Interface/AddOns/` folder, so you end up with `Interface/AddOns/AutoMacro/AutoMacro.toc`.
 3. Restart the game or `/reload`.
 
 ## Usage
