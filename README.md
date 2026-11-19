@@ -1,5 +1,7 @@
 # AutoMacro
 
+<img src="media/logo.png" alt="AutoMacro logo" width="128">
+
 A World of Warcraft Classic addon that automatically creates per-character **mouseover macros** for your class's heals, dispels, buffs, resurrections and crowd control.
 
 When you log in or learn a new spell, AutoMacro checks which supported spells you know and creates a macro for each one that doesn't already have a mouseover macro. Macros cast by spell name without a rank, so they always use the highest rank you know.
